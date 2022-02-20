@@ -1,0 +1,4 @@
+Krishna Kumar,3,SIT,Tumakuru
+Pujitha Gowda,3,SIT,Tumakuru
+Bhavana Murthy,5,BMSCE,Bengaluru
+Raj Kumar,3,BMSCE,Bengaluru

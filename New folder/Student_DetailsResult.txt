@@ -1,0 +1,4 @@
+Krishna Kumar,3,SIT,67,78,89,56,70
+Pujitha Gowda,3,SIT,40,50,35,67,59
+Bhavana Murthy,5,BMSCE,67,59,60,70,45
+Raj Kumar,3,BMSCE,89,97,35,80,90
